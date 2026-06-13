@@ -6,7 +6,7 @@
   <img src="b516d722-51c8-4554-a522-37bce2285cdd.png" alt="Banner" width="100%">
 </p>
 
-## 🌐 Contact
+## 🌐 Connect with me:
 
 <p align="center">
   <a href="mailto:fedeg3663@gmail.com">
