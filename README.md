@@ -27,17 +27,21 @@
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </p>
+
 
 SQL Server • MySQL • MariaDB
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,react,bootstrap,dotnet" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap">
 </p>
 
 React • React Native • Bootstrap • .NET
