@@ -13,8 +13,6 @@
   <a href="mailto:fedeg3663@gmail.com">Email</a>
 </p>
 
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -45,4 +43,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,obsidian,git,github,linux,bash,docker,postman" />
 </p>
----
