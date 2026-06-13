@@ -28,11 +28,19 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
+
+SQL Server • MySQL • MariaDB
 
 ### Frameworks & Libraries
 
-React • React Native • .NET • Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=react,react,bootstrap,dotnet" />
+</p>
+
+React • React Native • Bootstrap • .NET
 
 ### Tools
 
