@@ -26,22 +26,17 @@
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+SQL Server • MySQL • MariaDB
 
 ### Frameworks & Libraries
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,dotnet" />
-</p>
+React • React Native • .NET • Bootstrap
 
 ### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
