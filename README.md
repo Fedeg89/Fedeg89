@@ -21,7 +21,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,py,php,cpp" />
 </p>
 
 ### Databases
@@ -33,13 +33,13 @@
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker" />
 </p>
 
 ---
