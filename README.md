@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&lines=Cybersecurity;Backend+Development;Linux+Enthusiast" />
 
 <p align="center">
-  <img src="" alt="Banner" width="100%">
+  <img src="b516d722-51c8-4554-a522-37bce2285cdd.png" alt="Banner" width="100%">
 </p>
 ---
 
