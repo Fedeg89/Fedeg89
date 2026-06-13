@@ -10,7 +10,6 @@
 ## 🌐 Contact
 
 <p align="center">
-  <a href="https://github.com/Fedeg89">GitHub</a> •
   <a href="https://linkedin.com/in/USUARIO">LinkedIn</a> •
   <a href="mailto:fedeg3663@gmail.com">Email</a>
 </p>
