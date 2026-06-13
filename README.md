@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Federico Garcia 👋</h1>
 
-<h3 align="center">
-Cybersecurity • Backend Developer
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&lines=Cybersecurity;Backend+Development;Linux+Enthusiast;Always+Learning" />
 
 <p align="center">
   <img src="assets/banner.png" alt="Banner" width="100%">
