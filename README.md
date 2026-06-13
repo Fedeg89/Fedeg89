@@ -26,7 +26,9 @@
 
 ### Databases
 
-SQL Server • MySQL • MariaDB
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Frameworks & Libraries
 
