@@ -13,9 +13,9 @@ Cybersecurity • Backend Developer
 ## 🌐 Contact
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">GitHub</a> •
-  <a href="https://linkedin.com/in/TU_USUARIO">LinkedIn</a> •
-  <a href="mailto:tuemail@gmail.com">Email</a>
+  <a href="https://github.com/Fedeg89">GitHub</a> •
+  <a href="https://linkedin.com/in/USUARIO">LinkedIn</a> •
+  <a href="mailto:fedeg3663@gmail.com">Email</a>
 </p>
 
 ---
