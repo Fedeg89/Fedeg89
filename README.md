@@ -15,7 +15,7 @@
 </p>
 
 <p>
-🚀 Backend developer focused on building robust and scalable applications with C# and .NET, designing APIs, business solutions, and database-driven systems.
+🚀 Backend developer focused on building robust and scalable applications with C# and .NET, designing APIs and database-driven systems.
 
 ⚛️ Experienced with React and React Native, creating modern web and mobile interfaces that connect seamlessly with backend services.
 
