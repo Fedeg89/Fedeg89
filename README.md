@@ -14,6 +14,18 @@
   </a>
 </p>
 
+<p>
+🚀 Backend developer focused on building robust and scalable applications with C# and .NET, designing APIs, business solutions, and database-driven systems.
+
+⚛️ Experienced with React and React Native, creating modern web and mobile interfaces that connect seamlessly with backend services.
+
+🔐 Passionate about cybersecurity and continuously developing personal projects related to analysis tools, automation, system monitoring, and security-focused software.
+
+🐧 Linux enthusiast with a strong interest in software architecture, clean code, databases, networking, and problem solving.
+
+📚 Always learning, always building.
+</p>
+
 ## 💻 Tech Stack
 
 ### Languages
